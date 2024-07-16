@@ -1,0 +1,1 @@
+alter table topics modify column title varchar(100) not null unique
